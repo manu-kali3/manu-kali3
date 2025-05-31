@@ -1,8 +1,9 @@
-- 👋 Hi, I’m  Emmanuel korir
-- 👀 I’m interested in  cyber security
+- 👋 Hi, I’m  Emmanuel kiplangat korir
+- 👀 I’m interested in  cyber security,web development,database management
 - 🌱 I’m currently learning  computer science
-- 💞️ I’m looking to collaborate on  cyber security analyst who will support me and mentor me
-- 📫 How to reach me   +254725760154... 
+- 💞️ I’m looking to collaborate on  cyber security analyst,web developers,sofware enginneers and developer who will support me and mentor me
+- 📫 How to reach me   +254725760154...
+- i use javascript,python,html&css and java
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... like solving  many proplems esspecially frome tech 
 
